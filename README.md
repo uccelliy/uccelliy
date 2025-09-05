@@ -1,6 +1,6 @@
 <!-- 背景图 -->
 <div align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Welcome+to+My+Game+Lab" width="100%"/>
+  <img src="./origbig.png" width="100%"/>
 </div>
 
 # Hi, I'm 辰 👾
