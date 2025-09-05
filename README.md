@@ -4,7 +4,9 @@
 </div>
 
 # Hi, I'm 辰 👾
-独立游戏开发者 | 机器学习 & 认知科学爱好者
+- 独立游戏开发者 Game Designer and Developer
+- 机器学习 AI and machine learning
+- 计算认知神经科学 Computational neuroscience/Computational cognitive science
 
 ---
 
@@ -21,7 +23,7 @@
 <div align="center">
 
 ### 🎴 Card Game Engine
-<img src="https://via.placeholder.com/350x150.png?text=Card+Game+Demo" width="350"/>  
+<img src="[https://via.placeholder.com/350x150.png?text=Card+Game+Demo](https://via.placeholder.com/350x150/282c34/ffffff?text=Project+Demo)" width="350"/>  
 **Features:**  
 - 角色、卡牌稀有度和属性系统  
 - 能量机制 & 敌人状态系统  
