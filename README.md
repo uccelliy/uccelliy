@@ -11,35 +11,6 @@
 
 ---
 
-## 🖼 Featured Projects
-
-<div align="center">
-
-### 🎴 Card Game Engine
-<img src="https://via.placeholder.com/350x150/282c34/ffffff?text=Project+Demo" width="350"/>  
-**Features:**  
-- 角色、卡牌稀有度和属性系统  
-- 能量机制 & 敌人状态系统  
-- [GitHub Repo]
-
----
-
-### 🧪 
-<img src="https://via.placeholder.com/350x150.png?text=Experiment+Framework" width="350"/>  
-
-
----
-
-### 🎨 Personal Game Projects
-<img src="https://via.placeholder.com/350x150.png?text=Puzzle+Game+Screenshot" width="350"/>  
-- 独立开发解谜小游戏  
-- 结合物理与策略元素  
-- 开放式关卡设计  
-
-</div>
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yin-ruochen-8552a4351/)  
@@ -47,5 +18,4 @@
 
 ---
 
-## 🌟 Interests & Hobbies
 
