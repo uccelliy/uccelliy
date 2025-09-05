@@ -5,6 +5,7 @@
 
 # Hi, I'm Ucc 👾
 我喜欢游戏，同时也喜欢人工智能和认知神经科学 
+I like games, AI, and cognitive neuroscience.
 - 🎮 独立游戏开发者 Game Designer and Developer
 - 💻 机器学习 AI and machine learning
 - 🧠 计算认知神经科学 Computational neuroscience/Computational cognitive science
