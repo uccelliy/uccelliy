@@ -3,18 +3,11 @@
   <img src="./origbig.png" width="100%"/>
 </div>
 
-# Hi, I'm 辰 👾
-- 独立游戏开发者 Game Designer and Developer
-- 机器学习 AI and machine learning
-- 计算认知神经科学 Computational neuroscience/Computational cognitive science
-
----
-
-## 🎯 About Me
-我喜欢把脑海里的奇思妙想变成可玩的游戏，也热衷于用机器学习理解人类认知。  
-- 💻 Languages & Tools: Python, C++, Unity, Godot  
-- 🎮 Game Development: Card Games, Puzzle Games, Mechanics Design  
-- 🧠 Cognitive Science & ML Experiments  
+# Hi, I'm Ucc 👾
+我喜欢游戏，同时也喜欢人工智能和认知神经科学 
+- 🎮 独立游戏开发者 Game Designer and Developer
+- 💻 机器学习 AI and machine learning
+- 🧠 计算认知神经科学 Computational neuroscience/Computational cognitive science
 
 ---
 
@@ -51,8 +44,8 @@
 ---
 
 ## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourname)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yin-ruochen-8552a4351/))  
 
 ---
 
