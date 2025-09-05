@@ -23,7 +23,7 @@
 <div align="center">
 
 ### 🎴 Card Game Engine
-<img src="[https://via.placeholder.com/350x150.png?text=Card+Game+Demo](https://via.placeholder.com/350x150/282c34/ffffff?text=Project+Demo)" width="350"/>  
+<img src="https://via.placeholder.com/350x150/282c34/ffffff?text=Project+Demo" width="350"/>  
 **Features:**  
 - 角色、卡牌稀有度和属性系统  
 - 能量机制 & 敌人状态系统  
