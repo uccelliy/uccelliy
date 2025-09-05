@@ -24,12 +24,9 @@
 
 ---
 
-### 🧪 Cognitive Experiment Framework
+### 🧪 
 <img src="https://via.placeholder.com/350x150.png?text=Experiment+Framework" width="350"/>  
-**Highlights:**  
-- 精准控制图像和音频同步  
-- 记录反应时间并支持多实验范式  
-- [GitHub Repo]
+
 
 ---
 
@@ -51,7 +48,4 @@
 ---
 
 ## 🌟 Interests & Hobbies
-- 游戏设计与开发  
-- 探索认知科学与 AI  
-- 数字艺术 & 音乐创作  
-- 卡牌游戏与桌面策略游戏  
+
